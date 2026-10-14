@@ -30,7 +30,7 @@ An end-to-end Data Engineering project that ingests, stores, transforms, and pre
 To gain practical experience in cloud-based data ingestion, ETL processing, data quality, workflow orchestration, and data lake architecture.
 
 ## 🚧 Project Status
-In Progress
+Successfully Run 
 
 ## 👨‍💻 Author
 **Rushikesh Taralkar**
